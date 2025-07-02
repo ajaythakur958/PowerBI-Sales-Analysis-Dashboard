@@ -54,6 +54,8 @@ This repository showcases an interactive **Sales Analysis Dashboard** built usin
 ![Screenshot 2025-06-20 224736](https://github.com/user-attachments/assets/4a8ec56b-f40e-40fd-b6b5-08912a7c0475)
 
 
-## ✅ Connect:
+## 📬 Connect With Me
 
-- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/ajay-thakur-5158bb186/))
+*Ajay | Data Analyst*  
+🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/ajay-thakur-5158bb186/)
+
